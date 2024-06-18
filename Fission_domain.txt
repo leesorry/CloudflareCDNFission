@@ -1,2 +1,15 @@
+cf.proxyip.dynv6.net
+dns.worker00001.cloudns.org
+hkcdn.eryayun.eu.org
+my-telegram-is-herocore.onecf.eu.org
 proxyip.aliyun.fxxk.dedyn.io
+proxyip.fxxk.dedyn.io
+proxyip.hk.fxxk.dedyn.io
+proxyip.nickng.link
+proxyip.puiyin.eu.org
+proxyip.ro.cloudns.org
 us.wokaotianshi.eu.org
+vpn.aaok.vip
+workers.bestip.one
+workers.cloudflare.cyou
+yx11.197778.xyz
